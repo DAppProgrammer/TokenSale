@@ -2,8 +2,8 @@
 
 ERC20 token and Token Sale smart contracts supported by front end application in React
 
-# Terminal commands
-
+## Some Basic Terminal commands
+```
 1. truffle migrate
    To migrate your contract to local (or main) blockchain
 2. truffle console
@@ -16,3 +16,4 @@ ERC20 token and Token Sale smart contracts supported by front end application in
    Reads value of state variable totalSupply into constant totalSupply
 6. totalSupply.toString()
    Displays value of totalSupply as a string
+   ```
